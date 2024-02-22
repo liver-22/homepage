@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0px auto;
+    max-width: 1000px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    background-color: #e4cf3436;
+}

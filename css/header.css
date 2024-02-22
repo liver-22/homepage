@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    padding: 0px;
+    background-color: #f2f2eb;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.header__imgLogo {
+    max-width: 300px;
+}

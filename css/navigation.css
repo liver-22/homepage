@@ -1,0 +1,36 @@
+.navigation {
+    background-color: #f7ff83;
+    font-size: 18px;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.navigation__list {
+    text-align: center;
+}
+
+.navigation__item {
+    list-style: none;
+    display: inline;
+    margin: 10px;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: black;
+    background-color: #83ff8f;
+    padding: 5px 10px;
+    border: 2px solid black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.navigation__link:hover {
+    background-color: #eaa560;
+}
+
+.navigation__link:active {
+    color: yellow;
+}

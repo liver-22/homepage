@@ -1,0 +1,60 @@
+.section {
+    background-color: #f2f2eb;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 15px;
+    text-align: justify;
+}
+
+.section__mainHeader {
+    text-align: center;
+    background-color: #50e25060;
+    border-radius: 30px;
+    box-shadow: 0px 0px 35px 8px #50e25060;
+    font-size: 1.75em;
+}
+
+.section__imageContainer {
+    text-align: center;
+    overflow-x: auto;
+}
+
+.section__imgPlayUltimate {
+    width: 400px;
+    height: 250px;
+    margin: 15px;
+}
+
+.section__image {
+    max-width: 800px;
+}
+
+.section__image--hidden {
+    display: none;
+}
+
+.section__buttonParagraph {
+    text-align: center;
+}
+
+.section__buttonChangeTeam {
+    background-color: #e4cf3436;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 0px 5px 0px 0px #00000078;
+}
+
+.section__buttonChangeTeam:active {
+    transform: translateY(5px);
+    box-shadow: 0px 0px;
+}
+
+.section__buttonChangeTeam:hover {
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.section__tableContainer {
+    overflow-x: auto;
+}

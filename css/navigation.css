@@ -20,7 +20,7 @@
 .navigation__link {
     text-decoration: none;
     color: black;
-    background-color: #83ff8f;
+    background-color: hsl(126, 100%, 76%);
     padding: 5px 10px;
     border: 2px solid black;
     font-weight: 700;
@@ -28,9 +28,9 @@
 }
 
 .navigation__link:hover {
-    background-color: #eaa560;
+    background-color: hsl(126, 100%, 55%);
 }
 
 .navigation__link:active {
-    color: yellow;
+    color: grey;
 }

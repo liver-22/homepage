@@ -1,7 +1,7 @@
 # Ultimate Frisbee
 
 Hi! <br>
-Welcome to my first ever created website.
+Welcome to my first ever created website in polish language.
 
 ## Demo
 
